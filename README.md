@@ -3,6 +3,6 @@ collaborative whiteboard in java
 
 
  1st open netbeans 
- 2nd open project
+ 2nd JavaFXAApplication1.zip with open project
  3rd run server
- 4th run clinet
+ 4th run client
